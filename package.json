@@ -1,0 +1,25 @@
+{
+  "name": "gilded-rose",
+  "version": "1.0.0",
+  "description": "This is a well known kata developed by [Terry Hughes](http://iamnotmyself.com/2011/02/13/refactor-this-the-gilded-rose-kata/). This is commonly used as a tech test to assess a candidate's ability to read, refactor and extend legacy code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrijeshPujara/Gilded-Rose-Tech-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrijeshPujara/Gilded-Rose-Tech-Test/issues"
+  },
+  "homepage": "https://github.com/BrijeshPujara/Gilded-Rose-Tech-Test#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
